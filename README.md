@@ -1,9 +1,9 @@
 # dascia-missao-b10 · Landing page ARKON
 
-Landing page demonstrativa da **ARKON**, empresa fictícia de Engenharia de IA para negócios.
+Landing page demonstrativa da **ARKON**, marca em desenvolvimento voltada à Engenharia de IA para empresas.
 Projeto educacional da formação em Engenharia de IA na **DascIA** (missão B10).
 
-> **Aviso:** a ARKON é uma empresa fictícia. Textos, serviços e a simulação do terminal são ilustrativos. O botão de contato é apenas demonstrativo: não há e-mail, formulário nem coleta de dados, e nenhuma credencial no projeto.
+> **Aviso:** a ARKON é uma marca em desenvolvimento; a landing page é o projeto demonstrativo e educacional. Textos, serviços e a simulação do terminal são ilustrativos. O botão de contato é apenas demonstrativo: não há e-mail, formulário nem coleta de dados, e nenhuma credencial no projeto.
 
 ## Stack
 HTML5, CSS3 e JavaScript puro. Sem frameworks, sem build, sem dependências.

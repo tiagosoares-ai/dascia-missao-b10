@@ -1,6 +1,6 @@
 # CLAUDE.md · dascia-missao-b10
 
-Landing page estática da ARKON (empresa fictícia). Projeto educacional; o usuário é iniciante em Engenharia de IA, então explique decisões de forma didática. Responda em pt-BR.
+Landing page estática da ARKON (marca em desenvolvimento, voltada à Engenharia de IA para empresas). A landing page é um projeto demonstrativo e educacional; o usuário é iniciante em Engenharia de IA, então explique decisões de forma didática. Responda em pt-BR.
 
 ## Regras
 - Somente HTML5, CSS3 e JS vanilla. **Não adicionar dependências nem etapa de build.**
@@ -8,7 +8,7 @@ Landing page estática da ARKON (empresa fictícia). Projeto educacional; o usu�
 - Cores, fontes e espaçamentos só via variáveis em `assets/css/tokens.css`.
 - Sem scripts ou estilos inline (a CSP em `_headers` bloqueia). Exceção: JSON-LD no `<head>`.
 - **Nunca** incluir credenciais, chaves, e-mails ou dados reais. Se precisar de exemplo, use `example.com`, nunca apresentado como contato verdadeiro.
-- **Não inventar informações comerciais** (métricas, clientes, depoimentos, preços). A página deve continuar identificada como projeto demonstrativo e a ARKON como empresa fictícia.
+- **Não inventar informações comerciais** (métricas, clientes, depoimentos, preços). A página deve continuar identificada como projeto demonstrativo e os textos como ilustrativos (a ARKON é uma marca em desenvolvimento, não uma empresa fictícia).
 - Ao mudar o domínio, atualizar `canonical`, `og:*`, `twitter:image`, JSON-LD, `robots.txt` e `sitemap.xml` (ver README).
 - Não usar logos ou marcas de terceiros.
 - Acessibilidade WCAG AA: semântica, contraste, foco visível, teclado, `prefers-reduced-motion`.
