@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dascia-missao-b10.pages.dev/sitemap.xml

@@ -1,0 +1,36 @@
+# Dependências e builds
+node_modules/
+dist/
+.wrangler/
+
+# Segredos e credenciais (nunca versionar)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials*.json
+service-account*.json
+.npmrc
+secrets/
+.dev.vars
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs e temporários
+*.log
+npm-debug.log*
+tmp/
+.cache/
+
+# Arquivos locais do Claude Code
+.claude/settings.local.json
